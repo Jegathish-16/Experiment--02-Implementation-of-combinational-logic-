@@ -39,8 +39,8 @@ Create university program(VWF) for getting timing diagram.
 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Jegathish S
+RegisterNumber:  212221230041
 
 ### F1:
 ```
